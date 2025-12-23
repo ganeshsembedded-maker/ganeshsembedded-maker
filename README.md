@@ -40,13 +40,13 @@
 *ATmega328, Embedded C*  
 - Automated EV charging using RFID authentication  
 - Secure and efficient energy access system  
-- [Repository Link](https://github.com/ganeshsembedded-maker/rfid-ev-charging)  
+- [Repository Link](https://github.com/ganeshsembedded-maker/)  
 
 🍔 **QuickBite ETA Prediction**  
 *Machine Learning, Python, Flask*  
 - Built an ML model to predict food delivery time  
 - Developed a Flask-based web interface  
-- [Repository Link](https://github.com/ganeshsembedded-maker/quickbite-eta-prediction)  
+- [Repository Link](https://github.com/ganeshsembedded-maker/QuickBite-ETA-)  
 
 💡 **Other Mini-Projects / Exercises**  
 - Embedded sensor interfacing with UART, SPI, I2C  
