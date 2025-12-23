@@ -40,7 +40,7 @@
 *ATmega328, Embedded C*  
 - Automated EV charging using RFID authentication  
 - Secure and efficient energy access system  
-- [Repository Link](https://github.com/ganeshsembedded-maker/)  
+- [Repository Link](https://github.com/ganeshsembedded-maker/RFID-Based-EV-Charging-System)  
 
 🍔 **QuickBite ETA Prediction**  
 *Machine Learning, Python, Flask*  
