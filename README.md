@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ganesh S  
 
 🎓 **BE in Electronics and Communication Engineering** @ STJIT, VTU  
-💡 Interested in **Machine Learning | Data Science | VLSI Design | Embedded Systems**  
+💡 Interested in **Machine Learning | Data Science | Embedded Systems**  
 ⚙️ Skilled in **C, C++, Java, Python, Embedded Systems**  
 📚 Currently learning **AWS, AI tools, and Advanced Machine Learning**  
 🚀 Interned at **Archelos Intelsense Technologies**  
