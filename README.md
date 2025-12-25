@@ -66,15 +66,6 @@
 
 ## 😄 Fun Facts
 - Music lover & travel enthusiast 🎵✈️  
-
----
-
-## 📊 GitHub Stats
-
-![Ganesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ganeshsembedded-maker&show_icons=true)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshsembedded-maker&layout=compact)  
-
 ---
 
 ## 📫 Connect with Me
