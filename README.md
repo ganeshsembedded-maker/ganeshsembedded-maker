@@ -5,7 +5,7 @@
 ⚙️ Skilled in **C, C++, Java, Python, Embedded Systems**  
 📚 Currently learning **AWS, AI tools, and Advanced Machine Learning**  
 🚀 Interned at **Archelos Intelsense Technologies**  
-   *(QuickBite ETA Predictive Modeling)*  
+*(QuickBite ETA Predictive Modeling)*  
 
 ---
 
@@ -36,19 +36,38 @@
 
 ## 📈 Projects
 
-🔋 **RFID-based EV Charging System**  
+### 🔋 RFID-based EV Charging System
 *ATmega328, Embedded C*  
 - Automated EV charging using RFID authentication  
 - Secure and efficient energy access system  
-- [Repository Link](https://github.com/ganeshsembedded-maker/RFID-Based-EV-Charging-System)  
+- Block Diagram & Flow Chart included in repo  
+- [Repository Link](https://github.com/ganeshsembedded-maker/RFID-Based-EV-Charging-System)
 
-🍔 **QuickBite ETA Prediction**  
-*Machine Learning, Python, Flask*  
+### 🍔 QuickBite ETA Prediction
+*Python, ML, Flask*  
 - Built an ML model to predict food delivery time  
 - Developed a Flask-based web interface  
 - [Repository Link](https://github.com/ganeshsembedded-maker/QuickBite-ETA-)  
 
-💡 **Other Mini-Projects / Exercises**  
+### 📝 Exploratory Data Analysis Project
+*Python, Pandas, Matplotlib*  
+- Conducted EDA on datasets to extract insights  
+- Visualized patterns and relationships using charts and plots  
+- [Repository Link](https://github.com/ganeshsembedded-maker/Exploratory-Data-Analysis-Project)  
+
+### 🔍 KNN Classification Project
+*Python, Machine Learning*  
+- Implemented K-Nearest Neighbors algorithm  
+- Included data preprocessing, distance calculation, model evaluation  
+- [Repository Link](https://github.com/ganeshsembedded-maker/KNN-Classification-Project)  
+
+### 🌳 Decision Tree Classification ML
+*Python, Machine Learning*  
+- Built a Decision Tree classifier for supervised tasks  
+- Covered preprocessing, model training, and evaluation  
+- [Repository Link](https://github.com/ganeshsembedded-maker/Decision-Tree-Classification-ML)  
+
+### 💡 Mini Projects / Exercises
 - Embedded sensor interfacing with UART, SPI, I2C  
 - VLSI design practice exercises (Verilog/VHDL)  
 - Data preprocessing & ML model experiments  
@@ -66,6 +85,7 @@
 
 ## 😄 Fun Facts
 - Music lover & travel enthusiast 🎵✈️  
+
 ---
 
 ## 📫 Connect with Me
