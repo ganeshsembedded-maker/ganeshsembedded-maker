@@ -108,15 +108,22 @@
 * 🔗 Repository: [https://github.com/ganeshsembedded-maker/KNN-Classification-Project](https://github.com/ganeshsembedded-maker/KNN-Classification-Project)
 
 ---
+🌳 Irrigation Need Prediction using Decision Tree & Ensemble Models
 
-### 🌳 Decision Tree Classification
+Python, Machine Learning, scikit-learn
 
-*Python, Machine Learning*
+Developed a supervised machine learning system to predict irrigation needs (Low / Medium / High) based on soil, weather, crop, and regional data
 
-* Built a **Decision Tree classifier** for supervised learning tasks
-* Covered training, testing, and performance evaluation
-* 🔗 Repository: [https://github.com/ganeshsembedded-maker/Decision-Tree-Classification-ML](https://github.com/ganeshsembedded-maker/Decision-Tree-Classification-ML)
+Performed Exploratory Data Analysis (EDA), feature encoding, correlation analysis, and data preprocessing
 
+Implemented Decision Tree, Random Forest, Gradient Boosting, AdaBoost, KNN, and Logistic Regression models
+
+Compared models using accuracy, train–test evaluation, and confusion matrix
+
+Achieved high performance with tree-based and ensemble models, demonstrating strong handling of non-linear agricultural data
+
+🔗 Repository:
+https://github.com/ganeshsembedded-maker/Irrigation-Need-Prediction-ML
 ---
 
 ### 🎓 Student Management System
