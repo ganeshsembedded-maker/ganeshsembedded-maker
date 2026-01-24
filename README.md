@@ -110,14 +110,24 @@ https://github.com/ganeshsembedded-maker/Irrigation-Need-Prediction-ML
 
 ---
 
-### 🎓 Student Management System (Core Java)
+### 🎓 Student Management System
 **Core Java, OOP, Collections, File Handling**
-- Developed a console-based Java application for managing student records  
+- Console-based Java application for managing student records  
 - Implemented CRUD operations using **ArrayList**  
 - Used file handling for persistent data storage  
-- Demonstrates strong understanding of Core Java concepts  
 🔗 Repository:  
 https://github.com/ganeshsembedded-maker/Student-Management-System-Java
+
+---
+
+## 📘 DSA & Problem-Solving Practice
+
+### 🧠 DSA Python Practice
+- Structured practice of **Arrays, Prefix Sum, Sliding Window, and Binary Search**
+- Clean Python implementations with time & space complexity analysis
+- Focused on interview-oriented problem solving  
+🔗 Repository:  
+https://github.com/ganeshsembedded-maker/DSA-Python-Practice
 
 ---
 
