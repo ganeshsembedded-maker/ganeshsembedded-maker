@@ -31,10 +31,8 @@
 - AWS (EC2,S3,RDS,IAM,VPC)
 
 ### 🔌 Embedded Systems
-- **Microcontroller:** ATmega328  
-- **Communication Protocols:** UART, SPI, I2C, CAN  
-- **Connectivity:** WiFi, Bluetooth  
-
+- **Communication Protocols:** UART, SPI, I2C, CAN (Basics)
+- **Connectivity:** WiFi, Bluetooth  (Basics)
 ---
 
 ## 📈 Projects
