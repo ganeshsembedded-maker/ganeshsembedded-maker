@@ -13,7 +13,7 @@
 ### 💻 Programming Languages
 - C  
 - C++  
-- **Java (Core Java, OOP, Collections, File Handling)**  
+- **Java**  
 - Python  
 
 ### 🧩 Data Structures & Algorithms
