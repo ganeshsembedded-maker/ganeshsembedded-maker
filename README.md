@@ -17,7 +17,7 @@
 - Python
 
 ### 🧩 Data Structures & Algorithms
-- **Arrays** (Fundamentals, Prefix Sum, Subarrays, Searching, Problem-Solving)
+- **Arrays** (Fundamentals,Prefix Sum,Problem-Solving)
 
 ### 🧠 Frameworks & Libraries
 - Flask  
@@ -28,7 +28,7 @@
 
 ### ☁️ Tools & Platforms
 - Git & GitHub  
-- AWS (Learning)
+- AWS (EC2,S3,RDS,IAM,VPC)
 
 ### 🔌 Embedded Systems
 - **Microcontroller:** ATmega328  
