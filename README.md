@@ -13,8 +13,8 @@
 ### 💻 Programming Languages
 - C  
 - C++  
-- **Java**  
-- Python  
+- Java
+- Python
 
 ### 🧩 Data Structures & Algorithms
 - **Arrays** (Fundamentals, Prefix Sum, Subarrays, Searching, Problem-Solving)
